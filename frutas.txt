@@ -6,3 +6,6 @@ M:
 
 Melancia
 Maçã
+
+P:
+Pera
