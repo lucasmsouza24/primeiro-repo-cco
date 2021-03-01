@@ -1,8 +1,8 @@
 A:
-Amora
+
 Abacaxi
 
 M:
-Melão
+
 Melancia
 Maçã
